@@ -1,0 +1,21 @@
+{
+  "name": "tipos-avanzados-y-funciones",
+  "version": "1.0.0",
+  "description": "Curso de platzi acerca de typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "estudio"
+  ],
+  "author": "Roberto Contreras Gonzales",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "@capacitor/camera": "^4.1.4"
+  }
+}
